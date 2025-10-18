@@ -63,7 +63,7 @@ Created additional features to boost model performance:
 | Stacking Ensemble  | 1,638,821,150      | 4,578,545,931      | 0.738    | 18,089  | 50,536 |
 | ANN (Deep Learning)| 1,886,608,949      | 4,693,735,608      | 0.725    | 20,823  | 51,807  |
 
-> 💲 USD values calculated based on an exchange rate of 1 USD = 90,000 IRR
+>  USD values calculated based on an exchange rate of 1 USD = 90,000 IRR
 
 ---
 
